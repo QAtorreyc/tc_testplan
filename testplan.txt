@@ -2,4 +2,4 @@ overview:
 purpose:
 strategy:
 test cases:
-resources
+resources:
